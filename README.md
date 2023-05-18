@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Irene Gordun👋
+
+I'm a Network Engineering student and I'm currenlty finishing my degree at Universitat Politècnica de Catalunya 💻 🌐
 
 <!--
 **irenegordun/irenegordun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
